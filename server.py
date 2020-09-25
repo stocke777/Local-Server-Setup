@@ -2,7 +2,7 @@ import sys
 import socket
 from _thread import *
 
-server = "192.168.43.215"
+server = "192.168.43.215"  # Enter your device IPv4 address here
 port = 5050
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
