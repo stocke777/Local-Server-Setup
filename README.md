@@ -15,7 +15,7 @@
 
 <br/>
 
-## 4.Run client.py file again on a seperate terminal and it should look like this.
+## 4. Run client.py file again on a seperate terminal and it should look like this.
 ![](images/3.PNG)
 
 <br/>
@@ -24,4 +24,4 @@
 ![](images/4.PNG)
 <br/>
 
-### *Note: only two cliets can connect together. Our player is Green and enemy is Red*
+### *Note: only two clients can connect together. Our player is Green and enemy is Red*
